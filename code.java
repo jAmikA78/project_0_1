@@ -1,3 +1,5 @@
+//don't forjet to change path of backgrounds
+
 import java.util.*;
 import java.io.*;
 import java.awt.*;
