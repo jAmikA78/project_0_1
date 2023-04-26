@@ -42,7 +42,7 @@ public class Main extends JFrame implements ActionListener {
         setVisible(true);
         JLabel background;
         ImageIcon obj_II = new ImageIcon(
-                "C:\\Users\\ASUS\\IdeaProjects\\F_trend\\src\\monkey-man-pointing-front_1.jpg"
+                "C:\\3.jpg"
         );
         background = new JLabel("", obj_II, JLabel.CENTER);
         background.setBounds(0, 0, 1080, 720);
@@ -67,7 +67,7 @@ public class Main extends JFrame implements ActionListener {
         boy_frame.add(back_boy_button);
         JLabel background1;
         ImageIcon i1 = new ImageIcon(
-                "C:\\Users\\ASUS\\IdeaProjects\\F_trend\\src\\monkey-man-pointing-front.jpg"
+                "C:\\2.jpg"
         );
         background1 = new JLabel("", i1, JLabel.CENTER);
         background1.setBounds(0, 0, 1080, 720);
@@ -77,7 +77,7 @@ public class Main extends JFrame implements ActionListener {
         JLabel background3;
         ImageIcon i3;
         i3 = new ImageIcon(
-                "C:\\Users\\ASUS\\IdeaProjects\\F_trend\\src\\monkey-man-making-heart-with-his-hands.jpg"
+                "C:\\1.jpg"
         );
         background3 = new JLabel("", i3, JLabel.CENTER);
         background3.setBounds(0, 0, 1080, 720);
